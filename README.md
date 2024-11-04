@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm audiosmith</h1>
+<h1 align="center">Hi 👋, I'm Akash </h1>
 <h3 align="center">A Python Backend, API and AI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitone912&label=Profile%20views&color=0e75b6&style=flat" alt="gitone912" /> </p>
