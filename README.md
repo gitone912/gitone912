@@ -1,3 +1,26 @@
+# 💫 Hi 👋, I'm Ankit Kumar
+
+**B.Tech ECE @ IIT Patna | AI/ML Enthusiast 🤖 | Quant & Software Engineering 🚀 | Competitive Programmer 💻**
+
+I'm passionate about building intelligent systems, solving challenging problems, and exploring the intersection of **AI, Machine Learning, Software Engineering, and Financial Markets**.
+
+* 🔭 **I’m currently working on:** AI/ML projects, RAG systems, and quantitative finance research
+* 🌱 **I’m currently learning:** Machine Learning, Deep Learning, LLMs, RAG, System Design & Quantitative Finance
+* 👯 **I’m looking to collaborate on:** AI/ML, GenAI, RAG, quantitative finance & open-source projects
+* 🤔 **I’m looking for help with:** Building production-ready ML systems and exploring quantitative research
+* 💬 **Ask me about:** C++, Python, Machine Learning, RAG, DSA, Quant Finance & Competitive Programming
+* 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ankit-kumar-638bb8280/) | GitHub
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I enjoy turning complex problems into simple, working solutions. 🚀
+
+### 🛠️ Tech Stack
+
+**Languages:** C++ • Python • SQL • JavaScript
+**AI/ML:** Machine Learning • Deep Learning • RAG • NLP • LLMs
+**Tools:** Git • GitHub • Docker • MATLAB • Google Colab
+**Interests:** 🤖 AI/ML • 📊 Quant Finance • 💻 DSA • ☁️ Software Engineering
+
+> *Always learning. Always building. Always solving.* 💫
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_nki_t_0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitk192004@gmail.com) 
