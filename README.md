@@ -1,7 +1,4 @@
-# 💫 Hi 👋, I'm Ankit Kumar
-
-**B.Tech ECE @ IIT Patna | AI/ML Enthusiast 🤖 | Quant & Software Engineering 🚀 | Competitive Programmer 💻**
-
+# 💫 Hi 
 I'm passionate about building intelligent systems, solving challenging problems, and exploring the intersection of **AI, Machine Learning, Software Engineering, and Financial Markets**.
 
 * 🔭 **I’m currently working on:** AI/ML projects, RAG systems, and quantitative finance research
